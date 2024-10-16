@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shop_app_flutter
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter_shopping_app
+This is a flutter e-commerce shopping react js project.
+>>>>>>> 61befb7d2fee4e07b848489c53138235b169bd7f
